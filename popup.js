@@ -13,10 +13,3 @@ document.getElementById('searchForm').addEventListener('submit', function(e) {
     window.close();
   }
 });
-
-// Allow pressing Enter to submit
-document.getElementById('searchInput').addEventListener('keypress', function(e) {
-  if (e.key === 'Enter') {
-    document.getElementById('searchForm').dispatchEvent(new Event('submit'));
-  }
-});
