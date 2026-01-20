@@ -1,0 +1,39 @@
+#yt-search-floating-icon {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 50%;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 2147483647;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  transition: all 0.2s ease;
+  opacity: 0;
+  transform: scale(0.8);
+}
+
+#yt-search-floating-icon.show {
+  opacity: 1;
+  transform: scale(1);
+}
+
+#yt-search-floating-icon:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+}
+
+#yt-search-floating-icon:active {
+  transform: scale(0.95);
+}
+
+#yt-search-floating-icon svg {
+  width: 24px;
+  height: 24px;
+  color: #FF0000;
+  background: white;
+  border-radius: 4px;
+  padding: 2px;
+}
