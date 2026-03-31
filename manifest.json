@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "YouTube Search",
+  "name": "YouTube Search Launcher",
   "version": "1.0",
-  "description": "Quick YouTube search from your browser toolbar or by right-clicking selected text",
+  "description": "Quick YouTube search Launcher from your browser toolbar or by right-clicking selected text",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {

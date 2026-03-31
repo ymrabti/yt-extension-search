@@ -1,10 +1,10 @@
-# YouTube Search Chrome Extension
+# YouTube Search Launcher Chrome Extension
 
 A simple and elegant Chrome extension that allows you to quickly search YouTube directly from your browser toolbar.
 
 ## Features
 
-- 🎯 Quick YouTube search from browser toolbar
+- 🎯 Quick YouTube search Launcher from browser toolbar
 - 🎨 Beautiful gradient design with YouTube branding
 - ⚡ Fast and lightweight
 - 🔍 Opens search results in a new tab
@@ -22,7 +22,7 @@ A simple and elegant Chrome extension that allows you to quickly search YouTube 
 1. Click the extension icon in your browser toolbar
 2. Type your search query in the input field
 3. Press Enter or click the "Search" button
-4. YouTube search results will open in a new tab
+4. YouTube search Launcher results will open in a new tab
 
 ## Files
 
